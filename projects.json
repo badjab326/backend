@@ -3,12 +3,24 @@
       "name": "What2Play",
       "live": "https://what2play.netlify.app/",
       "git": "https://github.com/badjab326/project-1",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://cdn.discordapp.com/attachments/944706362288517200/998305568148181032/Screen_Shot_2022-07-17_at_12.09.32_PM.png"
     },
     {
       "name": "Collarchive",
       "live": "https://collarchive.herokuapp.com/",
       "git": "https://github.com/badjab326/collarchive",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://github.com/badjab326/collarchive/raw/main/screenshots/Home.png"
+    },
+    {
+      "name": "Gym Planner",
+      "live": "https://gymplannerjb.herokuapp.com/",
+      "git": "https://github.com/badjab326/gymplanner",
+      "image": "https://cdn.discordapp.com/attachments/944706362288517200/997132437446475956/Screen_Shot_2022-07-14_at_6.27.20_AM.png"
+    },
+    {
+      "name": "Avatar Yearbook (Backend)",
+      "live": "https://avatar-yearbook-backend.herokuapp.com/",
+      "git": "https://github.com/badjab326/ay-backend",
+      "image": "https://user-images.githubusercontent.com/104465292/175374836-35985d5e-4911-44b5-9c22-7cdb6be774dc.png"
     }
   ]
